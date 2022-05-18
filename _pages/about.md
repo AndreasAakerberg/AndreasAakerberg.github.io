@@ -9,3 +9,12 @@ redirect_from:
 ---
 
 
+*Biography*
+---
+I'm a PhD fellow at in Visual Analysis and Perception Laboratory (VAPLAB) at Aalborg University (AAU), Denmark and part of the Milestone Research Programme at AAU. 
+
+*Research Interests*
+---
+
+*News*
+---
