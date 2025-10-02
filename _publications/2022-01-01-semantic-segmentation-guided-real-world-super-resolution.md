@@ -1,0 +1,13 @@
+---
+title: "Semantic segmentation guided real-world super-resolution"
+collection: publications
+category: conferences
+permalink: /publication/2022-01-01-semantic-segmentation-guided-real-world-super-resolution
+excerpt: ""
+date: 2022-01-01
+venue: "Proceedings of the IEEE/CVF winter conference on applications of computer vision"
+paperurl: 'https://openaccess.thecvf.com/content/WACV2022W/RWS/papers/Aakerberg_Semantic_Segmentation_Guided_Real-World_Super-Resolution_WACVW_2022_paper.pdf'
+citation: "Aakerberg, Andreas and Johansen, Anders S and Nasrollahi, Kamal and Moeslund, Thomas B (2022). &quot;Semantic segmentation guided real-world super-resolution.&quot; <i>Proceedings of the IEEE/CVF winter conference on applications of computer vision</i>."
+---
+
+Real-world single image Super-Resolution (SR) aims to enhance the resolution and reconstruct High-Resolution (HR) details of real Low-Resolution (LR) images. This is different from the traditional SR setting, where the LR images are synthetically created, typically with bicubic downsampling. As the degradation process for real-world LR images are highly complex, SR of such images is much more challenging. Recent promising approaches to solve the Real-World Super-Resolution (RWSR) problem include the use of domain adaptation to create realistic training pairs, and self-learning based methods which learn an image specific SR model at test time. However, as domain adaptation is an inherently challenging problem in itself, SR models based solely on this approach are limited by the domain gap. In contrast, while self-learning based methods remove the need for paired training data by utilizing internal information in the LR image, these methods come with the cost of slow prediction times. This paper proposes a novel framework, Semantic Segmentation Guided Real-World Super-Resolution (SSG-RWSR), which uses an auxiliary semantic segmentation network to guide the SR learning. This results in noise-free reconstructions with accurate object boundaries, and enables training on real LR images. The latter allows our SR network to adapt to the image specific degradations, without Ground-Truth (GT) reference images. We support the guidance with domain adaptation to faithfully reconstruct realistic textures, and ensure color consistency. We evaluate our proposed method on two public available datasets, and present State-of-the-Art …
