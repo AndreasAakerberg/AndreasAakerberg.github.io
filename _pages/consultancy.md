@@ -19,3 +19,5 @@ Jeg kan hjælpe med rådgivning, analyse og løsninger inden for **AI**, **compu
 
 > **Synaptec AI** — consultancy in AI & computer vision led by *Andreas Aakerberg, PhD*  
 > **CVR:** 45067661 · **Phone:** +45 50 88 10 25
+
+![alt text](../images/consultancy.jpg "Title")
