@@ -1,0 +1,35 @@
+---
+layout: archive
+title: "Supervision"
+permalink: /supervision/
+author_profile: true
+---
+
+<style>
+  /* Header cells only */
+  .supervision-table thead th { 
+    font-size: 1.15rem; 
+    color: #fff;
+  }
+</style>
+
+|Year| Level | Topic | Place |
+|------|-------|-------|-------|
+|2025|BSc|Lightweight Machine Learning for Visual Error Detection in Automated Layer Picking|Aalborg University|
+|2025|BSc|Optimizing Körber Operator Eye, using temporal image classification|Aalborg University|
+|2025|BSc|Investigating model robustness under persistent concept drift with Mixture of Experts|Aalborg University|
+|2025|BSc|You Only Look 7 Times: Model-Selection for Drift Mitigation|Aalborg University|
+|2025|BSc|Driverless system for electric racecars|Aalborg University|
+|2025|BSc|Self Driving Racecar |Aalborg University|
+|2025|BSc|Underwater Image Enhancement Utilising Dehazing and Colour Correction|Aalborg University|
+|2024|BSc|Joint Processing Approach to Lowlight Enhancement and Lens Flare Removal |Aalborg University|
+|2024|BSc|Low light Image Enhancement |Aalborg University|
+|2024|BSc|Improving Object Detection in Low-Light Conditions|Aalborg University|
+|2024|MSc|Using Saliency Maps And Optical Flow To Mitigate Concept Drift In Thermal Images|Aalborg University|
+|2024|MSc|6D pose estimation of LEGO objects by use of synthetic training data |Aalborg University|
+|2024|BSc|Gamifying the Bicycle Highway|Aalborg University|
+|2022|MSc|Adding Synthetic Data for Joint Low-Light Enhancement and Super-Resolution |Aalborg University|
+|2022|MSc|Supervised Multi-Domain GAN for Low Light Image Synthesis|Aalborg University|
+|2021|MSc|Investigation of Using RGB-Based Real-World Image Super-Resolution to Achieve Real-World Thermal Image Super-Resolution|Aalborg University|
+|2021|MSc|Super Resolution of Magnetic Resonance Images using Ensemble Learning |Aalborg University|
+{: .supervision-table}
