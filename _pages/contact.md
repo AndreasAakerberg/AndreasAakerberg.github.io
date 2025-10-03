@@ -25,3 +25,4 @@ Feel free to contact me if you are interested in my work, collaborations, or wan
 > **E-mail:** <aakerberg@me.com> <br>
 > **Phone:** +45 50 88 10 25 <br>
 
+![alt text](../images/compare.jpg "Title")
