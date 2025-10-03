@@ -11,3 +11,5 @@ citation: "Aakerberg, Andreas and Nasrollahi, Kamal and Moeslund, Thomas B (2022
 ---
 
 Most existing face image Super‐Resolution (SR) methods assume that the Low‐Resolution (LR) images were artificially downsampled from High‐Resolution (HR) images with bicubic interpolation. This operation changes the natural image characteristics and reduces noise. Hence, SR methods trained on such data most often fail to produce good results when applied to real LR images. To solve this problem, a novel framework for the generation of realistic LR/HR training pairs is proposed. The framework estimates realistic blur kernels, noise distributions, and JPEG compression artifacts to generate LR images with similar image characteristics as the ones in the source domain. This allows to train an SR model using high‐quality face images as Ground‐Truth (GT). For better perceptual quality, a Generative Adversarial Network (GAN) based SR model is used, where the commonly used VGG‐loss [1] is exchanged …
+
+![alt text](../images/wiley.jpg "Title")
