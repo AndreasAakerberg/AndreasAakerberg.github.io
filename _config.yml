@@ -28,7 +28,7 @@ author:
   bio              : "Assistant Professor and industry-experienced researcher. Expert in AI, computer vision, image reconstruction, and video surveillance."
   location         : "Aalborg, Denmark"
   employer         : "Aalborg University"
-  uri              : "https://vbn.aau.dk/en/persons/anaa" # URL
+  URI              : "https://andreasaakerberg.github.io" #"https://vbn.aau.dk/en/persons/anaa" # URL
   email            : "anaa@create.aau.dk" 
 
   # Academic websites
