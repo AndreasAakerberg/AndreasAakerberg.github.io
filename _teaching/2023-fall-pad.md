@@ -2,7 +2,7 @@
 title: "Perception and Acquisition of Data, Fall Semester 2023"
 collection: teaching
 type: "Graduate Course"
-venue: "Aalborg University, Department of Architecture, Design and Media Technology"
+venue: "Aalborg University, Department of Electronic Systems"
 date: 2023-09-01.
 location: "Aalborg, Denmark"
 ---
