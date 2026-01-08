@@ -15,6 +15,12 @@ author_profile: true
 
 |Year| Level | Topic | Place |
 |------|-------|-------|-------|
+|2025|BSc|Super-Resolution for Improving Low Resolution People Re-Identification|Aalborg University|
+|2025|MSc|Visual Servoing, Tracking and Control in Robotic Laparoscopic Camera|Aalborg University|
+|2025|BSc|AAU Autonomous Racing Project|Aalborg University|
+|2025|BSc|Computer Vision Strategies for Firearm Detection|Aalborg University|
+|2025|BSc|Formula Student Prototype|Aalborg University|
+|2025|BSc|Enhanced Person Re-Identification|Aalborg University|
 |2025|BSc|Lightweight Machine Learning for Visual Error Detection in Automated Layer Picking|Aalborg University|
 |2025|BSc|Optimizing Körber Operator Eye, using temporal image classification|Aalborg University|
 |2025|BSc|Investigating model robustness under persistent concept drift with Mixture of Experts|Aalborg University|
