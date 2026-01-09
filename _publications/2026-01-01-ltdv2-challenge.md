@@ -1,7 +1,7 @@
 ---
 title: "Robust Thermal Image Object Detection Challenge: Advancing Multi-object Detection Performance under Long-Term Thermal Drift"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-01-01-ltdv2-challenge
 excerpt: ""
 date: 2025-1-9
