@@ -1,7 +1,7 @@
 ---
 title: "Sea-ing Through Scattered Rays: Revisiting the Image Formation Model for Realistic Underwater Image Generation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-01-01-sea-ing-through-scattered-rays-revisiting-the-image-formatio
 excerpt: ""
 date: 2025-01-01
