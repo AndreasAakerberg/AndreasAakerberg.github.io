@@ -2,9 +2,9 @@
 title: "Robust Thermal Image Object Detection Challenge: Advancing Multi-object Detection Performance under Long-Term Thermal Drift"
 collection: publications
 category: conferences
-permalink: /publication/2025-01-01-ltdv2-challenge
+permalink: /publication/2026-01-01-ltdv2-challenge
 excerpt: ""
-date: 2025-1-9
+date: 2026-1-1
 venue: "WACVW"
 paperurl: 'https://vbn.aau.dk/en/publications/robust-thermal-image-object-detection-challenge-advancing-multi-o/'
 citation: "Anders Skaarup Johansen, Marco Parola, Andreas Aakerberg, Mario Cimino, Sergio Escalera, Thomas B Moeslund, Kamal Nasrollahi (2026). "Robust Thermal Image Object Detection Challenge: Advancing Multi-object Detection Performance under Long-Term Thermal Drift", The IEEE/CVF Winter Conference on Applications of Computer Vision 2026: Real World Surveillance: Applications and Challenges, 6th
