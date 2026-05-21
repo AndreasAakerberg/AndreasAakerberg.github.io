@@ -3,7 +3,7 @@ title: "Depth value pre-processing for accurate transfer learning based RGB-D ob
 collection: publications
 category: conferences
 permalink: /publication/2017-depth-value-pre-proc-rgbd-obj-det
-excerpt: ""
+excerpt: "Winner of IJCCI Best Paper Award 2017: [https://ijcci.scitevents.org/PreviousAwards.aspx](ttps://ijcci.scitevents.org/PreviousAwards.aspx)"
 date: 2017-01-01
 venue: "International Joint Conference on Computational Intelligence"
 paperurl: 'https://www.scitepress.org/Papers/2017/65115/65115.pdf'
