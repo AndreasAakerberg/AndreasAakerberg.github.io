@@ -15,6 +15,13 @@ author_profile: true
 
 |Year| Level | Topic | Place |
 |------|-------|-------|-------|
+|2026|MSc|A Study of Reliability-Aware Super-Resolution in Robotic Laparoscopic Imaging|Aalborg University|
+|2026|MSc|Spatio-temporal Object Detection in Thermal Surveillance|Aalborg University|
+|2026|MSc|Object Detection For Thermal Images Across Time and Season|Aalborg University|
+|2026|BSc|Investigating and Addressing the Shortcomings of the Log Anomaly Detection Domains|Aalborg University|
+|2026|BSc|Vibration-Based Anomaly Detection for Predictive Maintenance|Aalborg University|
+|2026|BSc|Machine Learning-Based Roller Press Optimization at Aalborg Portland|Aalborg University|
+|2026|BSc|Data-Driven Optimisation of a Cement Roller Press|Aalborg University|
 |2025|BSc|Super-Resolution for Improving Low Resolution People Re-Identification|Aalborg University|
 |2025|MSc|Visual Servoing, Tracking and Control in Robotic Laparoscopic Camera|Aalborg University|
 |2025|BSc|AAU Autonomous Racing Project|Aalborg University|
