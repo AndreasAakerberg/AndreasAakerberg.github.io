@@ -39,7 +39,8 @@ author_profile: true
 |2024|BSc|Low light Image Enhancement |Aalborg University|
 |2024|BSc|Improving Object Detection in Low-Light Conditions|Aalborg University|
 |2024|MSc|Using Saliency Maps And Optical Flow To Mitigate Concept Drift In Thermal Images|Aalborg University|
-|2024|MSc|6D pose estimation of LEGO objects by use of synthetic training data |Aalborg University|
+|2024|MSc|6D pose estimation of LEGO objects by use of synthetic training data|Aalborg University|
+|2024|MSc|Automatic detection and severity assessment of stringing defect in FDM 3D printing using deep learning Aalborg University|
 |2024|BSc|Gamifying the Bicycle Highway|Aalborg University|
 |2022|MSc|Adding Synthetic Data for Joint Low-Light Enhancement and Super-Resolution |Aalborg University|
 |2022|MSc|Supervised Multi-Domain GAN for Low Light Image Synthesis|Aalborg University|
