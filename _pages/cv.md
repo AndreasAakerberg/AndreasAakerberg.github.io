@@ -44,7 +44,7 @@ Supervised university students on the camera team and demonstrated products publ
 
 **Student Software Developer — Intel Mobile Communications**  
 *2014 – 2017*  
-Development of automated test automation software and frameworks for RF driver verification.
+Built automated test-automation software and frameworks for RF driver verification, integrated into CI/CD pipelines for continuous regression testing. Worked in an Agile development environment applying DevOps practices across build, test, and deployment.
 
 **Earlier Roles**  
 *2016 – 2017*  
