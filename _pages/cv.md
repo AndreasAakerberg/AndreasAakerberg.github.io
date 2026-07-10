@@ -38,7 +38,7 @@ Collaborations: IVRL at EPFL (Switzerland) and Milestone Systems (Denmark).
 
 **Software Developer & Deep-Learning Specialist — HSA Systems**  
 *Jul 2017 – May 2020*  
-Development engineer on intelligent-camera products: built AI-based barcode-reader software, a Linux MIPI camera driver, and customer-facing SDKs, with prototype hardware and embedded implementations across STM32/ARM (ST CubeMX) and Lattice FPGA.  
+Development engineer on intelligent-camera products: built AI-based barcode-reader software, a Linux MIPI camera driver, and customer-facing SDKs, with prototype hardware and embedded implementations across STM32/ARM (ST CubeMx) and Lattice FPGA.  
 Project manager on an intelligent-camera project; administered Linux server infrastructure including a GPU-based deep-learning server.  
 Supervised university students on the camera team and demonstrated products publicly (HI-Messen 2019).
 
@@ -67,6 +67,10 @@ Built automated test-automation software and frameworks for RF driver verificati
 - **IET IP 2022:** Real-world super-resolution of face images from surveillance cameras  
 - **NeurIPS 2021:** **RELLISUR**: A Real Low-Light Image Super-Resolution Dataset
 
+## Patents
+- **Patent (2024):** *A method of training a neural network, apparatus and computer program for carrying out the method* — US Patent Application 18/595,002  
+- **Patent (2023):** *Image processing method, apparatus, and non-transitory computer-readable medium* — US Patent Application 18/069,089
+
 ## Teaching & Supervision
 - **Courses:** Deep Learning; Image Processing & Computer Vision; Machine Vision & Machine Learning; MLOps; AI Programming; Perception & Acquisition of Data  
 - **Supervision:** 30+ BSc and MSc thesis projects plus PhD co-supervision (Aalborg University, 2021–Present); supervision of university students during industry role at HSA Systems (2017–2020)
@@ -75,6 +79,13 @@ Built automated test-automation software and frameworks for RF driver verificati
 - **Governance:** Member, HPC Governance Board, Pioneer Centre for AI (P1)  
 - **External Examiner:** BSc and MSc of Science in Engineering, appointed by the Danish Agency for Higher Education and Science  
 - **Lab:** Member, VAP Lab Management, Aalborg University
+
+## Invited Talks & Media
+- **Conference talk (WACV 2026):** *From Lab to Street: Real-World Super-Resolution for Surveillance Applications* — Real-World Surveillance Workshop, Tucson, USA  
+- **Seminar talk (DIREC 2022):** *Fine-Grained Image Generation with Super-Resolution* — Denmark  
+- **TV — TV 2 Danmark (2025):** Interview on image enhancement for the documentary *Hvem chikanerer Tove?*  
+- **TV — TV 2 Nord (2023):** Interview on AI education and public interest in AI  
+- **TV — Discovery+/Kanal 5 (2022):** Contribution on image analysis, documentary series *Forbrydelser der rystede Danmark — Mia-sagen*
 
 ## Technical Toolbox
 - **Programming:** Python, C/C++, Java, Bash  
