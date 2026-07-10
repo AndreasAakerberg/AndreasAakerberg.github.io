@@ -37,8 +37,10 @@ Focus: Image Super-Resolution for real-world applications; emphasis on surveilla
 Collaborations: IVRL at EPFL (Switzerland) and Milestone Systems (Denmark).
 
 **Software Developer & Deep-Learning Specialist — HSA Systems**  
-*Jul 2017 – Apr 2020*  
-Project management and product development. Built real-time CV algorithms and drivers for machine-vision systems and delivered embedded implementations. Mentored interns; contributed to board bring-up and integration across STM32/ARM and Linux.
+*Jul 2017 – May 2020*  
+Development engineer on intelligent-camera products: built AI-based barcode-reader software, a Linux MIPI camera driver, and customer-facing SDKs, with prototype hardware and embedded implementations across STM32/ARM (ST CubeMX) and Lattice FPGA. 
+Project manager on an intelligent-camera project; administered Linux server infrastructure including a GPU-based deep-learning server. 
+Supervised university students on the camera team and demonstrated products publicly (HI-Messen 2019)
 
 **Student Software Developer — Intel Mobile Communications**  
 *2014 – 2017*  
