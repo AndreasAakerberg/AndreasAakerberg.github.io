@@ -38,9 +38,9 @@ Collaborations: IVRL at EPFL (Switzerland) and Milestone Systems (Denmark).
 
 **Software Developer & Deep-Learning Specialist — HSA Systems**  
 *Jul 2017 – May 2020*  
-Development engineer on intelligent-camera products: built AI-based barcode-reader software, a Linux MIPI camera driver, and customer-facing SDKs, with prototype hardware and embedded implementations across STM32/ARM (ST CubeMX) and Lattice FPGA. 
-Project manager on an intelligent-camera project; administered Linux server infrastructure including a GPU-based deep-learning server. 
-Supervised university students on the camera team and demonstrated products publicly (HI-Messen 2019)
+Development engineer on intelligent-camera products: built AI-based barcode-reader software, a Linux MIPI camera driver, and customer-facing SDKs, with prototype hardware and embedded implementations across STM32/ARM (ST CubeMX) and Lattice FPGA.  
+Project manager on an intelligent-camera project; administered Linux server infrastructure including a GPU-based deep-learning server.  
+Supervised university students on the camera team and demonstrated products publicly (HI-Messen 2019).
 
 **Student Software Developer — Intel Mobile Communications**  
 *2014 – 2017*  
@@ -68,11 +68,12 @@ Built automated test-automation software and frameworks for RF driver verificati
 - **NeurIPS 2021:** **RELLISUR**: A Real Low-Light Image Super-Resolution Dataset
 
 ## Teaching & Supervision
-- **Courses:** Deep Learning; Image Processing & Computer Vision; Machine Vision & Machine Learning; MLOps  
-- **Supervision:** Industry interns, BSc/MSc/PhD students (2017–Present)
+- **Courses:** Deep Learning; Image Processing & Computer Vision; Machine Vision & Machine Learning; MLOps; AI Programming; Perception & Acquisition of Data  
+- **Supervision:** 30+ BSc and MSc thesis projects plus PhD co-supervision (Aalborg University, 2021–Present); supervision of university students during industry role at HSA Systems (2017–2020)
 
 ## Service & Leadership
 - **Governance:** Member, HPC Governance Board, Pioneer Centre for AI (P1)  
+- **External Examiner:** BSc and MSc of Science in Engineering, appointed by the Danish Agency for Higher Education and Science  
 - **Lab:** Member, VAP Lab Management, Aalborg University
 
 ## Technical Toolbox
@@ -87,4 +88,3 @@ Danish (fluent), English (fluent), German (basic)
 
 ## References
 Available upon request.
-
