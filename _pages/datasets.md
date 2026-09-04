@@ -20,6 +20,20 @@ the reality moves away from the training distribution.
 
 *Parola, Aakerberg, Johansen, Nikolov, Cimino, Nasrollahi & Moeslund (2025).*
 
+### SVSR — Spatially Variant Super-Resolution benchmark
+1,119 real low-resolution images degraded by complex noise of varying intensity
+and type, each paired with real noise-free ×2 and ×4 high-resolution ground
+truth. Built to test how robust real-world super-resolution methods are when
+degradation varies across the image rather than being uniform; it also works as
+a denoiser benchmark.
+
+[Download (Zenodo, 2.1 GB)](https://doi.org/10.5281/zenodo.10044260) ·
+[Paper (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Aakerberg_PDA-RWSR_Pixel-Wise_Degradation_Adaptive_Real-World_Super-Resolution_WACV_2024_paper.pdf) ·
+DOI: [10.5281/zenodo.10044260](https://doi.org/10.5281/zenodo.10044260) ·
+Licence: CC BY-NC-SA 4.0
+
+*Aakerberg (2023). Companion benchmark to PDA-RWSR.*
+
 ### RELLISUR — Real Low-Light Image Super-Resolution
 The first dataset of real, aligned low-light low-resolution and normal-light
 high-resolution image pairs, at multiple resolution scales and degrees of
