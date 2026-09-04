@@ -43,7 +43,7 @@ underexposure. Closes the gap between low-light enhancement and super-resolution
 which the literature had treated separately even though real-world visibility is
 usually limited by both at once.
 
-Published at **NeurIPS 2021, Datasets & Benchmarks Track**. Over 2,000 downloads.
+Published at **NeurIPS 2021, Datasets & Benchmarks Track**. Now over 2,000 downloads.
 
 [Download (Zenodo, 8.9 GB)](https://doi.org/10.5281/zenodo.5234969) ·
 [Paper (NeurIPS 2021)](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/7ef605fc8dba5425d6965fbd4c8fbe1f-Paper-round2.pdf) ·
