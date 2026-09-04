@@ -23,6 +23,7 @@ detectors hold up when reality moves away from the training distribution.
 *Parola, Aakerberg, Johansen, Nikolov, Cimino, Nasrollahi & Moeslund (2025).*
 
 ### SVSR — Spatially Variant Super-Resolution benchmark
+<img src="/images/svsr.png" alt="Example images from the SVSR dataset" class="align-right" width="320">
 1,119 real low-resolution images degraded by complex noise of varying intensity
 and type, each paired with real noise-free ×2 and ×4 high-resolution ground
 truth. Built to test how robust real-world super-resolution methods are when
