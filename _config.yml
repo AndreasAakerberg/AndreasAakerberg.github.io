@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" 
+  avatar           : "stoos-l.png" 
   name             : "Andreas Aakerberg, PhD" # full name
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor and industry-experienced researcher. Expert in AI, computer vision, image reconstruction, and video surveillance."
