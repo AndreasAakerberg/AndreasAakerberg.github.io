@@ -23,7 +23,7 @@ detectors hold up when reality moves away from the training distribution.
 *Parola, Aakerberg, Johansen, Nikolov, Cimino, Nasrollahi & Moeslund (2025).*
 
 ### SVSR — Spatially Variant Super-Resolution benchmark
-<img src="/images/svsr.png" alt="Example images from the SVSR dataset" class="align-right" width="320">
+<img src="/images/svsr.png" alt="Example images from the SVSR dataset" class="align-right" width="400">
 1,119 real low-resolution images degraded by complex noise of varying intensity
 and type, each paired with real noise-free ×2 and ×4 high-resolution ground
 truth. Built to test how robust real-world super-resolution methods are when
@@ -38,6 +38,7 @@ Licence: CC BY-NC-SA 4.0
 *Aakerberg (2023). Companion benchmark to PDA-RWSR.*
 
 ### RELLISUR — Real Low-Light Image Super-Resolution
+<img src="/images/rellisur.png" alt="Example images from the Rellisur dataset" class="align-right" width="400">
 12,750 paired images: real low-light low-resolution captures with normal-light
 high-resolution references, across multiple resolution scales and degrees of
 underexposure. Closes the gap between low-light enhancement and super-resolution,
