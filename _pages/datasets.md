@@ -68,6 +68,8 @@ dataset loader are provided.
 [Challenge report](https://vbn.aau.dk/en/publications/robust-thermal-image-object-detection-challenge-advancing-multi-o/)
 
 ### Real-World Surveillance Workshop & Challenge — IEEE/CVF WACV
+<img src="/images/rws-chall-2026.jpg" alt="WAVC RWS Challenge 2026" class="align-center" width="400">
+
 I co-organise the Real-World Surveillance workshop, now in its sixth edition,
 along with its associated challenge. The workshop brings together researchers
 working on surveillance problems as they actually occur: uncontrolled capture,
