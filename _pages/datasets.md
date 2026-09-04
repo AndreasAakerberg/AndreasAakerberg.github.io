@@ -58,6 +58,8 @@ Licence: CC BY 4.0
 ## Challenges
 
 ### RTIOD — Robust Thermal-Image Object Detection Challenge
+<img src="/images/rws-chall-2026.jpg" alt="WAVC RWS Challenge 2026" class="align-right" width="200">
+
 Hosted at the 6th Real-World Surveillance workshop, WACV 2026. Participants build
 detectors that stay accurate as thermal imagery drifts over months and seasons,
 evaluated on held-out periods from LTDv2. A YOLO starting kit and COCO-format
@@ -68,9 +70,7 @@ dataset loader are provided.
 [Challenge report](https://vbn.aau.dk/en/publications/robust-thermal-image-object-detection-challenge-advancing-multi-o/)
 
 ### Real-World Surveillance Workshop & Challenge — IEEE/CVF WACV
-<img src="/images/rws-chall-2026.jpg" alt="WAVC RWS Challenge 2026" class="align-center" width="400">
-
-I co-organise the Real-World Surveillance workshop, now in its sixth edition,
+I co-organise the Real-World Surveillance workshop, now in its seventh edition,
 along with its associated challenge. The workshop brings together researchers
 working on surveillance problems as they actually occur: uncontrolled capture,
 degraded imagery, long deployment horizons, and operational constraints.
