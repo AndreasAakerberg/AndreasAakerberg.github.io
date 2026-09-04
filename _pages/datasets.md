@@ -11,6 +11,7 @@ if you use it.
 ## Datasets
 
 ### LTDv2 — Long-Term Thermal Drift
+<img src="/images/ltdv2.png" alt="Example images from the LTDv2 dataset" class="align-right" width="400">
 A large-scale thermal surveillance dataset for studying multi-object detection
 under long-term concept drift: seasonal change, weather, sensor re-calibration,
 and time-of-day shift across an extended capture period. Built to test whether
