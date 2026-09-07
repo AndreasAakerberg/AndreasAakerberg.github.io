@@ -20,8 +20,8 @@ I’m motivated by producing state-of-the-art research that delivers reliable an
        alt="Super-resolution of a surveillance frame: zoom into the region of interest, then enhance.">
 </video>
   <figcaption>
-    <em>Example of our work: real-world super-resolution of face images from
-    surveillance cameras. Published in
+    <em>Example of our work: Real-World Super-Resolution of Face Images from
+    Surveillance Cameras.<br> Published in
     <a href="https://doi.org/10.1049/ipr2.12359">IET Image Processing</a>,
     16(2), 442–452, 2022.</em>
   </figcaption>
