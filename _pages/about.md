@@ -13,4 +13,11 @@ My research sits at the intersection of **computer vision, image reconstruction,
 
 I’m motivated by producing state-of-the-art research that delivers reliable and measurable impact in practice and by delivering teaching that sparks interest, deepens understanding, and equips students with actionable skills.
 
+<video autoplay loop muted playsinline style="width:100%;height:auto;"
+       poster="{{ site.baseurl }}/images/zoom_enhance_poster.jpg">
+  <source src="{{ site.baseurl }}/images/zoom_enhance_web.mp4" type="video/mp4">
+       alt="Super-resolution of a surveillance frame: zoom into the region of interest, then enhance.">
+</video>
+
+
 ![alt text](images/teaser.jpg "Title")
