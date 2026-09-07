@@ -10,4 +10,4 @@ location: "Denmark"
 
 Interview about image enhancement for the TV documentary **“Hvem chikanerer Tove?”**, produced by **Aberdabei Film** for **TV 2 Danmark**. Aired on **21 August 2025**.  
 Official page: <https://tv.tv2.dk/hvem-chikanerer-tove>
-<img src="/images/tove7.png" alt="Talk TV2" class="align-center" width="400">
+<img src="/images/tove7.png" alt="Talk TV2" class="align-center" width="500">
