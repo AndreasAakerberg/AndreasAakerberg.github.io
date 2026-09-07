@@ -12,3 +12,4 @@ Interview about image enhancement for the TV documentary **“Hvem chikanerer To
 Official page: <https://tv.tv2.dk/hvem-chikanerer-tove>
 
 *Dansk (fra VBN-beskrivelsen):* Interview ifbm. billedforbedring til TV-dokumentaren "Hvem chikanerer Tove?", af Aberdabei Film produceret for TV2 Danmark. Sendt 21 August, 2025.
+<img src="/images/tove7.png" alt="Talk TV2" class="align-center" width="400">
