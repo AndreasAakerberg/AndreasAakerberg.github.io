@@ -8,5 +8,5 @@ date: 2022-10-12
 location: "Denmark"
 ---
 
-Appearance in the TV documentary series **Forbrydelser der rystede Danmark** (episode: *Mia-sagen*), broadcast on **Discovery+ / Kanal 5**. Contribution related to image analysis and context for the case.
+Appearance in the TV documentary series Forbrydelser der rystede Danmark (episode: *Mia-sagen*), broadcast on Discovery+ / Kanal 5. Contribution related to image analysis and context for the case.
 <img src="/images/ms1.png" alt="Talk Kanal5" class="align-center" width="500">
