@@ -13,6 +13,10 @@ My research focuses on computer vision, image reconstruction, and computational 
 
 I teach Deep Learning, Image Processing & Computer Vision, Machine Vision & Machine Learning, and MLOps, and supervise students at the BSc, MSc, and PhD levels. I’m motivated by research that pushes the state of the art while creating measurable impact in practice, and by teaching that sparks curiosity, develops deep understanding, and gives students the skills to turn ideas into working solutions.
 
+## News
+
+- **Oct 2026** — Recognized as a Top Reviewer for NeurIPS 2026.
+
 <figure>
 <video autoplay loop muted playsinline style="width:100%;height:auto;"
        poster="{{ site.baseurl }}/images/zoom_enhance_poster.jpg">
