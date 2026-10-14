@@ -15,7 +15,10 @@ I teach Deep Learning, Image Processing & Computer Vision, Machine Vision & Mach
 
 ## News
 
-- <i class="fas fa-award"></i> **Oct 2026** — Recognized as a Top Reviewer for NeurIPS 2026.
+<!-- 🏆 awards · 📄 papers · 🎤 talks · 💼 positions · 🎓 academic milestones.-->
+
+- 🏆 **Oct 2026** — Recognized as a Top Reviewer for NeurIPS 2026.
+- 🎓 **Jan 2026** — Appointed as external examiner for Bachelor’s and Master’s degrees in Engineering. 
 
 <figure>
 <video autoplay loop muted playsinline style="width:100%;height:auto;"
