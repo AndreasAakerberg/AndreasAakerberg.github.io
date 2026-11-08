@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an Assistant Professor in the [Visual Analysis & Perception (VAP) Lab](https://www.en.create.aau.dk/research/research-groups/visual-analysis-and-perception) at Aalborg University’s Department of Architecture, Design, and Media Technology. I am also a Research Consultant with [Milestone Systems A/S](https://www.milestonesys.com/) and a member of the HPC Advisory & Governance Board at the [Danish Pioneer Centre for AI](https://www.aicentre.dk/) (P1). I earned my Ph.D. in Artificial Intelligence and Computer Vision from Aalborg University in 2023 and serve as an external examiner for Bachelor’s and Master’s degrees in Engineering.
+I’m an Associate Professor in the [Visual Analysis & Perception (VAP) Lab](https://www.en.create.aau.dk/research/research-groups/visual-analysis-and-perception) at Aalborg University’s Department of Architecture, Design, and Media Technology. I am also a Research Consultant with [Milestone Systems A/S](https://www.milestonesys.com/) and a member of the HPC Advisory & Governance Board at the [Danish Pioneer Centre for AI](https://www.aicentre.dk/) (P1). I earned my Ph.D. in Artificial Intelligence and Computer Vision from Aalborg University, and serve as an external examiner for Bachelor’s and Master’s degrees in Engineering.
 
 My research focuses on computer vision, image reconstruction, and computational photography, particularly their application to challenging real-world domains such as surveillance and forensics. A recurring theme is developing vision systems that are not only accurate, but reliable and useful in practice. My work has also resulted in multiple patents in image processing.
 
@@ -17,6 +17,7 @@ I teach Deep Learning, Image Processing & Computer Vision, Machine Vision & Mach
 
 <!-- 🏆 awards · 📄 papers · 🎤 talks · 💼 positions · 🎓 academic milestones.-->
 
+- 🏆 **Nov 2026** — Appointed as Associate Professor at AAU.
 - 🏆 **Nov 2026** — Nominated as teacher of the year 2025-2026, at the section of Media Technology, AAU.
 - 🏆 **Oct 2026** — Recognized as a Top Reviewer for NeurIPS 2026.
 - 🎓 **Jan 2026** — Appointed as external examiner for Bachelor’s and Master’s degrees in Engineering. 
