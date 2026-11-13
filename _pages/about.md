@@ -17,7 +17,7 @@ I teach Deep Learning, Image Processing & Computer Vision, Machine Vision & Mach
 
 <!-- 🏆 awards · 📄 papers · 🎤 talks · 💼 positions · 🎓 academic milestones.-->
 
-- 🏆 **Nov 2026** — Appointed as Associate Professor at AAU.
+- 🎓 **Nov 2026** — Appointed as Associate Professor at AAU.
 - 🏆 **Nov 2026** — Nominated as teacher of the year 2025-2026, at the section of Media Technology, AAU.
 - 🏆 **Oct 2026** — Recognized as a Top Reviewer for NeurIPS 2026.
 - 🎓 **Jan 2026** — Appointed as external examiner for Bachelor’s and Master’s degrees in Engineering. 
